@@ -1,0 +1,22 @@
+
+body{
+    background-color: #39434b;
+}
+
+.login{
+    padding-top: 5vh;
+}
+.login-form{
+    background-color: black;
+    height: 40vh;
+    width: 40vh;
+    border-radius: 2vh;
+    color: whitesmoke;
+}
+.text-below{
+    color: whitesmoke;
+}
+.heading{
+    padding-top: 3vh;
+    text-align: center;
+}

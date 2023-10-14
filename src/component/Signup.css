@@ -1,0 +1,17 @@
+body{
+    background-color: #39434b;
+}
+.signup{
+    padding-top: 4vh;
+}
+.signup-form{
+    background-color: black;
+    height: 60vh;
+    width: 50vh;
+    border-radius: 2vh;
+    color: whitesmoke;
+}
+.heading{
+    padding-top: 3vh;
+    text-align: center;
+}
